@@ -17,6 +17,6 @@ x=new netflow(function(err, packet){
                  });
                 }
                 else{
-                   console.log(err);
+                   console.log("ERROR ERROR \n"+err);
                 }
               }).listen(2055);
