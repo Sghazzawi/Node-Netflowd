@@ -3,6 +3,11 @@ Node-Netflowd
 
 Is a netflow sink for node.js
 
+Installation
+============
+
+npm install https://github.com/Sghazzawi/Node-Netflowd/tarball/master
+
 Basic Example
 =============
 
