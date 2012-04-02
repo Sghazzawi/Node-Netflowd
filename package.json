@@ -1,0 +1,16 @@
+{
+  "author": "Sharif Ghazzawi <Sharif.Ghazzawi@gmail.com>",
+  "name": "Node-Netflowd",
+  "description": "Netflow consumer for node.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Sghazzawi/Node-Netflowd",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sghazzawi/Node-Netflowd.git"
+  },
+  "main": "lib/Netflow",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "devDependencies": {}
+}
