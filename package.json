@@ -1,6 +1,6 @@
 {
   "author": "Sharif Ghazzawi <Sharif.Ghazzawi@gmail.com>",
-  "name": "Node-Netflowd",
+  "name": "Netflow",
   "description": "Netflow consumer for node.js",
   "version": "0.0.1",
   "homepage": "https://github.com/Sghazzawi/Node-Netflowd",
